@@ -1,5 +1,5 @@
 # proyecto1
-Proyecto "//
+Proyecto "\\
 Descripción: El proyecto consiste en //
 Integrantes: Matias Pincheira Merino y Pablo Perez Lopez.//
 Idea del proyecto: //
